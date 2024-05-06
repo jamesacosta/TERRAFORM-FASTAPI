@@ -47,7 +47,7 @@ terraform plan
 terraform apply
 ```
 
-#### 1.7 If you are satisfied with the execution plan and wish to proceed with the deployment, run the following command:
+#### 1.7 To stop or cancel an ongoing Terraform deployment, you can use the following command:
 
 ```Powershell
 terraform destroy
